@@ -4,7 +4,7 @@ The objective of this project is to predict whether a patient has kyphosis or no
 # Classifiers Used
 * Logistic Regression CLassifier
 * Decision Tree Classifier
-* Random FOrest Classifier
+* Random Forest Classifier
 
 # Procedure 
 * Initially we import the dataset and study the variables present in it.
